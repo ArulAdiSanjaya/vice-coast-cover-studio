@@ -1,1 +1,7 @@
+# Vice Coast Cover Studio — local build output and scratch.
 out/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.makefun/
